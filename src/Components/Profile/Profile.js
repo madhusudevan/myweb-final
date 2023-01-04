@@ -6,7 +6,7 @@ function Profile(props) {
     
        
          
-  <img style={{height:160,width:160}} className='rounded-full' src={require('../../Images/IMG_20221224_144727.jpg')}/>
+  <img style={{height:160,width:160}} className='rounded-full' src={require('../../Images/sur.jpg')}/>
            
        
  
