@@ -57,7 +57,7 @@ try{
         I want to learn New technologies and improve developer experience.<br/>
          </p>
 
-         <h1>Contact</h1>
+         <h1>Contact</h1>   
     <form className='about'>
   
   <div className="form-group row">
